@@ -6,3 +6,4 @@ Repo to practice different design patterns in Python
 - Abstract Factory
 - Factory Method
 - Facade
+- Proxy
