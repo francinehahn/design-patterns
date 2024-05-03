@@ -7,3 +7,4 @@ Repo to practice different design patterns in Python
 - Factory Method
 - Facade
 - Proxy
+- Observer
