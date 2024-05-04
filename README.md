@@ -8,3 +8,4 @@ Repo to practice different design patterns in Python
 - Facade
 - Proxy
 - Observer
+- Command
