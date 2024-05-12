@@ -13,5 +13,6 @@ Repo to practice different design patterns in Python
     - Observer
     - Command
     - Template Method
+    - State
 - Architecture
     - Model-View-Controller (MVC)
